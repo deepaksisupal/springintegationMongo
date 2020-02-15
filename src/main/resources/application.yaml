@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: tasdb_v1
+      host: localhost
+      port: 27052
