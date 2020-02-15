@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 
 
 @Repository
-public interface ProductRepository extends MongoRepository<Customer, String> {
+public interface CustomerRepository extends MongoRepository<Customer, String> {
 
 }
